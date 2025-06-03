@@ -12,4 +12,3 @@
 ## Key Insights
 - Technology is the most profitable category.
 - The South region has high sales but low profits.
-- Corporate segment drives highest profit per order.
